@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    margin: 10px;
+    font-family: monospace;
+}
+
+header {
+    background-color: bisque;
+}
+
+main {
+    border: 1px solid yellowgreen;
+    width: 10rem;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px (0, 0, 0, 0.473);
+}
